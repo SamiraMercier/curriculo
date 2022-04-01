@@ -1,0 +1,12 @@
+@media screen and (max-width:768px){
+    .principal{
+        margin: auto;
+        max-width: 600px;
+        text-align: center;
+        grid-template-columns: 1fr;
+    }
+    .nome{
+    padding-top: 50px;
+}
+}
+
