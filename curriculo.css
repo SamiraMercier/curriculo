@@ -5,7 +5,11 @@
 }
 body{
     background-color: blanchedalmond;
-    font-family:cursive
+    font-family:sans-serif;
+}
+
+a{
+text-decoration: none;
 }
 
 .principal{
@@ -72,17 +76,23 @@ background-color: bisque;
     color: black;
     text-align: center;
     text-transform: uppercase;
+    font-size: 25px;
 }
 
 .idade{
     color: black;
     text-align: center;
     text-transform: uppercase;
+    font-size: 16px;
 }
 
 /*lado direito*/ 
 .texto{
-    margin-bottom: 50px;
-    line-height: 30px;
+    margin-bottom: 20px;
+    line-height: 50px;
     padding: 20px;
+}
+
+.Objetivos{
+    margin-top: 0;
 }
